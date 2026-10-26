@@ -21,3 +21,12 @@ Grupo META  <https://github.com/sara-kemelmajer/TECNICAS-Y-HERRAMIENTAS-II> Keme
 Grupo 1 <https://github.com/guadalupeaguirre/Entregas-TyHII-2026>Aguirre María Guadalupe,Del Popolo Francisco,Sfragara Luciano, Coronado Ignacio, Alarcón Rocío, Perez Vicchi Santiago, Zoia Julián
 
 Grupo 2 <https://github.com/juan-zingaretti/TyHm-2>Zingaretti Martinelli Juan Martín, Sarmiento Nicolas,Glasner Raimundo,Notti Joaquín, Roby Manuel, Hidalgo Mateo, Solchaga Juan Cruz
+
+Grupo 3 <https://github.com/anagodoyy85/TyHMII_Entregas> 
+- Valentino Giampietri
+-Mauricio Mansur
+-Mattia Malnis
+-Emanuel Gomez
+-Lucas Segura
+-Maria Jose Romero
+-Ana Clara Godoy
