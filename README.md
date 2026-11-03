@@ -42,6 +42,6 @@ Valentino Giampietri -Mauricio Mansur -Mattia Malnis -Emanuel Gomez-Lucas Segura
 Fabricio Montuori	
 Mateo Ambrogetti	
 Guillermo Pellegrini	
-Sol Mallar	Datos incompletos
-Celeste Herzog Datos Incompletos
-Pilar Zuñiga Datos Incompletos
+~~Sol Mallar~~	Datos incompletos
+~~Celeste Herzog~~ Datos Incompletos
+~~Pilar Zuñiga~~ Datos Incompletos
