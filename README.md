@@ -44,11 +44,13 @@ Fabricio Montuori
 Mateo Ambrogetti	
 Guillermo Pellegrini	
 Sol Mallar	mallarsol@hotmail.com.ar
+Celeste Herzog celeeher@gmail.com
+pilizunigapizolatto@gmail.com
+
 
 
 * Grupo Cookies <http://github.com/Pilargerbino/TECNICAS.II/>
+  
   Emma Briggs , Sofía Constantinidi , Sofia Briggs , Pilar Gerbino , Delfina Nallib, Guadalupe Pedrosa.
 
   
-Celeste Herzog celeeher@gmail.com
-pilizunigapizolatto@gmail.com
