@@ -58,6 +58,10 @@ pilizunigapizolatto@gmail.com
 
 Gianella Albarracin, Tiago Friscolanti, Luciano Migoni, Emiliano Ochoa, Ignacio Perez y Genaro Sfrede
 
+* Grupo Sist <https://github.com/Sebastian-Dimarco/TyHMII>
+
+  Dimarco Sebastián, Peña Santiago, Rodriguez Iván, Flores Tomás
+
   
 
   
