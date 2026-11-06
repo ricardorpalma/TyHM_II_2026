@@ -62,6 +62,8 @@ Gianella Albarracin, Tiago Friscolanti, Luciano Migoni, Emiliano Ochoa, Ignacio 
 
   Dimarco Sebastián, Peña Santiago, Rodriguez Iván, Flores Tomás
 
-  
+* Los Pibarrdos <https://github.com/>
+
+  Pedro Elizalde, Matteo Pratelesi, Francisco Allamand, Francisco Peiro
 
   
