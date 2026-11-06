@@ -53,4 +53,11 @@ pilizunigapizolatto@gmail.com
   
   Emma Briggs , Sofía Constantinidi , Sofia Briggs , Pilar Gerbino , Delfina Nallib, Guadalupe Pedrosa.
 
+
+  * Actitud Positiva <https://github.com/Ignacio-PerezDornheim/TYHMII_Entregas>
+
+Gianella Albarracin, Tiago Friscolanti, Luciano Migoni, Emiliano Ochoa, Ignacio Perez y Genaro Sfrede
+
+  
+
   
