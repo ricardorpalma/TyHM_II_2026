@@ -66,4 +66,10 @@ Gianella Albarracin, Tiago Friscolanti, Luciano Migoni, Emiliano Ochoa, Ignacio 
 
   Pedro Elizalde, Matteo Pratelesi, Francisco Allamand, Francisco Peiro
 
-  
+
+  * Los Rinocerontes <https://github.com/SantiagoMarsonet/TYHM2-Entregas>
+
+    Marsonet, Santiago
+    Royo Santiago
+    Gimenez Lisandro
+    Bordon Joaquin
