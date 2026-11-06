@@ -62,7 +62,7 @@ Gianella Albarracin, Tiago Friscolanti, Luciano Migoni, Emiliano Ochoa, Ignacio 
 
   Dimarco Sebastián, Peña Santiago, Rodriguez Iván, Flores Tomás
 
-* Los Pibarrdos <https://github.com/>
+* Los Pibarrdos <https://github.com/pedroelizalde05/TyHM2_modulo1>
 
   Pedro Elizalde, Matteo Pratelesi, Francisco Allamand, Francisco Peiro
 
