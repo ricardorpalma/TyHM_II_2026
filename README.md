@@ -73,3 +73,10 @@ Gianella Albarracin, Tiago Friscolanti, Luciano Migoni, Emiliano Ochoa, Ignacio 
     Royo Santiago
     Gimenez Lisandro
     Bordon Joaquin
+
+    * Cuasi Ingenieras <https://github.com/JuliaValle/T-ecnicas-y-Herramientas-II>
+   
+      Dominguez, Lucia
+      Farina, Milagros
+      Sepúlveda, Camila
+      Valle, Julieta
