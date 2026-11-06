@@ -78,5 +78,15 @@ Gianella Albarracin, Tiago Friscolanti, Luciano Migoni, Emiliano Ochoa, Ignacio 
    
       Dominguez, Lucia
       Farina, Milagros
+  * Grupo Fuerza G <https://github.com/MATEO9ISGRO/M1-Tecnicas-2/>
+ 
+  * Isgro Mateo
+  * Cotignola Andrés
+  * Zanetti Bautista
+  * Bresci Joaquín
+  * Ferro Salvo Luca
+  * Cañadas Ian
+  * Mendoza Edgar
+  
       Sepúlveda, Camila
       Valle, Julieta
